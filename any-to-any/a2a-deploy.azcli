@@ -6,7 +6,7 @@ az extension add --name virtual-wan
 az extension update --name virtual-wan
 
 # Parameters (make changes based on your requirements)
-region1=west
+region1=westus
 region2=canadacentral
 rg=vwan-a2a
 vwanname=vwana2a
