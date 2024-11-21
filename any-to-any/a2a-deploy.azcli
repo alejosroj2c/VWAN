@@ -14,7 +14,7 @@ hub1name=hub1
 hub2name=hub2
 username=azureuser
 password="Msft123Msft123"
-vmsize=Standard_DS1_v2
+vmsize=Standard_D4s_v5
 
 #Variables
 mypip=$(curl -4 ifconfig.io -s)
